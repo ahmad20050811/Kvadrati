@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(25, 25, 25);
+}
+.perv{
+    width: 150px;
+    height: 150px;
+    border-top: dashed 2px  red ;
+    border-right: dotted 2px orange;
+    border-bottom: dashed 2px yellow;
+    border-left: dotted 2px green;
+    border-radius: 10px 40px;
+    text-align: center;
+    margin: 50px;
+}
+.vtor{
+    width: 150px;
+    height: 150px;
+    border-top: dashed 2px  green ;
+    border-right: dotted 2px yellow;
+    border-bottom: dashed 2px orange;
+    border-left: dotted 2px red;
+    border-radius: 40px 10px;
+    text-align: center;
+    margin: 50px;
+}
+ul{
+    list-style-type: square;
+    color: white;
+    margin: 20px 50px;
+}
+.g{
+    color: green;
+}
+.r{
+    color: red;
+}
+.o{
+    color: orange;
+}
+.y{
+    color: yellow;
+}
+table{
+    width: 100%;
+}
+.g, .r, .o, .y{
+    margin: 10px 15px;
+}
